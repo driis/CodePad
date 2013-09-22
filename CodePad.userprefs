@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodePad.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="CodePad.iOS/UI/ReplViewController.cs" Line="26" Column="39" />
+      <File FileName="CodePad.iOS/AppDelegate.cs" Line="30" Column="104" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="CodePad.iOS" expanded="True">
+            <Node name="UI" expanded="True">
+              <Node name="ReplViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
